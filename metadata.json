@@ -1,0 +1,5 @@
+{
+  "name": "NONJE Stream",
+  "description": "A professional-grade Chinese Drama streaming application. Powered by REST API, featuring a robust mobile-first design, smart server wake-up, and immersive video playback.",
+  "requestFramePermissions": []
+}
